@@ -1,0 +1,106 @@
+
+App Thinning Size Report for All Variants of Mobee
+
+Variant: Mobee-104686EB-5BB2-47F0-95B5-EF78BEA821B3.ipa
+Supported variant descriptors: [device: iPad8,3, os-version: 12.2], [device: iPad8,1, os-version: 12.2], [device: iPad8,7, os-version: 12.2], [device: iPad7,1, os-version: 12.0], [device: iPad11,3, os-version: 12.2], [device: iPad8,4, os-version: 12.2], [device: iPad6,4, os-version: 11.0], [device: iPad7,3, os-version: 12.2], [device: iPad8,5, os-version: 12.0], [device: iPad7,4, os-version: 12.0], [device: iPad8,6, os-version: 12.2], [device: iPad6,4, os-version: 12.2], [device: iPad6,3, os-version: 12.0], [device: iPad8,2, os-version: 12.2], [device: iPad11,1, os-version: 12.2], [device: iPad8,4, os-version: 12.0], [device: iPad6,4, os-version: 12.0], [device: iPad7,2, os-version: 12.2], [device: iPad7,4, os-version: 11.0], [device: iPad7,3, os-version: 12.0], [device: iPad6,3, os-version: 12.2], [device: iPad6,3, os-version: 11.0], [device: iPad7,2, os-version: 12.0], [device: iPad8,1, os-version: 12.0], [device: iPad8,7, os-version: 12.0], [device: iPad8,5, os-version: 12.2], [device: iPad7,2, os-version: 11.0], [device: iPad7,3, os-version: 11.0], [device: iPad8,6, os-version: 12.0], [device: iPad8,8, os-version: 12.0], [device: iPad8,3, os-version: 12.0], [device: iPad11,4, os-version: 12.2], [device: iPad8,2, os-version: 12.0], [device: iPad7,1, os-version: 11.0], [device: iPad7,4, os-version: 12.2], [device: iPad7,1, os-version: 12.2], [device: iPad8,8, os-version: 12.2], and [device: iPad11,2, os-version: 12.2]
+App + On Demand Resources size: 14,9 MB compressed, 54 MB uncompressed
+App size: 14,9 MB compressed, 54 MB uncompressed
+On Demand Resources size: Zero KB compressed, Zero KB uncompressed
+
+
+Variant: Mobee-1B6164BE-3FEB-4654-AE2D-9C8F697D40C7.ipa
+Supported variant descriptors: [device: iPhone11,8, os-version: 12.2] and [device: iPhone11,8, os-version: 12.0]
+App + On Demand Resources size: 14,9 MB compressed, 53,9 MB uncompressed
+App size: 14,9 MB compressed, 53,9 MB uncompressed
+On Demand Resources size: Zero KB compressed, Zero KB uncompressed
+
+
+Variant: Mobee-1DFE42EA-CA6A-4352-904C-FD3EF4A391B4.ipa
+Supported variant descriptors: [device: iPhone9,1, os-version: 15.0], [device: iPhone12,8, os-version: 14.0], [device: iPhone12,8, os-version: 15.0], [device: iPhone10,4, os-version: 13.0], [device: iPhone12,8, os-version: 13.0], [device: iPhone10,4, os-version: 14.0], [device: iPhone10,1, os-version: 15.0], [device: iPhone9,1, os-version: 14.0], [device: iPhone9,3, os-version: 13.0], [device: iPhone10,4, os-version: 15.0], [device: iPhone10,1, os-version: 14.0], [device: iPhone9,3, os-version: 15.0], [device: iPhone10,1, os-version: 13.0], [device: iPhone9,3, os-version: 14.0], and [device: iPhone9,1, os-version: 13.0]
+App + On Demand Resources size: 14,9 MB compressed, 53,9 MB uncompressed
+App size: 14,9 MB compressed, 53,9 MB uncompressed
+On Demand Resources size: Zero KB compressed, Zero KB uncompressed
+
+
+Variant: Mobee-20E14F8D-E6A9-4A69-81A5-CFAD0F1C1857.ipa
+Supported variant descriptors: [device: iPad12,1, os-version: 15.0], [device: iPad5,3, os-version: 14.0], [device: iPad7,6, os-version: 15.0], [device: iPad6,12, os-version: 15.0], [device: iPad6,7, os-version: 14.0], [device: iPad7,12, os-version: 13.0], [device: iPad7,5, os-version: 14.0], [device: iPad5,3, os-version: 13.0], [device: iPad5,4, os-version: 14.0], [device: iPad6,8, os-version: 15.0], [device: iPad5,1, os-version: 15.0], [device: iPad6,7, os-version: 13.0], [device: iPad6,12, os-version: 14.0], [device: iPad6,8, os-version: 13.0], [device: iPad5,3, os-version: 15.0], [device: iPad5,2, os-version: 15.0], [device: iPad7,11, os-version: 15.0], [device: iPad12,2, os-version: 15.0], [device: iPad7,12, os-version: 14.0], [device: iPad7,6, os-version: 13.0], [device: iPad6,8, os-version: 14.0], [device: iPad6,11, os-version: 13.0], [device: iPad11,6, os-version: 15.0], [device: iPad7,12, os-version: 15.0], [device: iPad7,5, os-version: 15.0], [device: iPad5,2, os-version: 13.0], [device: iPad6,12, os-version: 13.0], [device: iPad7,6, os-version: 14.0], [device: iPad11,7, os-version: 15.0], [device: iPad6,11, os-version: 15.0], [device: iPad5,4, os-version: 15.0], [device: iPad6,11, os-version: 14.0], [device: iPad6,7, os-version: 15.0], [device: iPad7,11, os-version: 13.0], [device: iPad5,1, os-version: 13.0], [device: iPad11,6, os-version: 14.0], [device: iPad5,1, os-version: 14.0], [device: iPad5,4, os-version: 13.0], [device: iPad7,11, os-version: 14.0], [device: iPad5,2, os-version: 14.0], [device: iPad7,5, os-version: 13.0], and [device: iPad11,7, os-version: 14.0]
+App + On Demand Resources size: 14,9 MB compressed, 54 MB uncompressed
+App size: 14,9 MB compressed, 54 MB uncompressed
+On Demand Resources size: Zero KB compressed, Zero KB uncompressed
+
+
+Variant: Mobee-28F7DAE3-57CC-40F0-A6C8-86DAFCF88F64.ipa
+Supported variant descriptors: [device: iPhone8,1, os-version: 15.0], [device: iPod9,1, os-version: 14.0], [device: iPhone8,1, os-version: 14.0], [device: iPhone8,1, os-version: 13.0], [device: iPod9,1, os-version: 13.0], [device: iPhone8,4, os-version: 14.0], [device: iPhone8,4, os-version: 15.0], [device: iPod9,1, os-version: 15.0], and [device: iPhone8,4, os-version: 13.0]
+App + On Demand Resources size: 14,9 MB compressed, 53,9 MB uncompressed
+App size: 14,9 MB compressed, 53,9 MB uncompressed
+On Demand Resources size: Zero KB compressed, Zero KB uncompressed
+
+
+Variant: Mobee-37886C34-6934-4904-B767-001D07C51107.ipa
+Supported variant descriptors: [device: iPhone10,6, os-version: 11.0], [device: iPhone10,2, os-version: 12.2], [device: iPhone9,2, os-version: 11.0], [device: iPhone10,6, os-version: 12.0], [device: iPhone9,4, os-version: 12.0], [device: iPhone11,4, os-version: 12.2], [device: iPhone9,2, os-version: 12.2], [device: iPhone10,5, os-version: 11.0], [device: iPhone9,4, os-version: 12.2], [device: iPhone10,3, os-version: 11.0], [device: iPhone10,2, os-version: 11.0], [device: iPhone10,5, os-version: 12.0], [device: iPhone10,3, os-version: 12.2], [device: iPhone11,2, os-version: 12.0], [device: iPhone10,6, os-version: 12.2], [device: iPhone11,6, os-version: 12.2], [device: iPhone9,2, os-version: 12.0], [device: iPhone11,2, os-version: 12.2], [device: iPhone10,5, os-version: 12.2], [device: iPhone11,6, os-version: 12.0], [device: iPhone9,4, os-version: 11.0], [device: iPhone11,4, os-version: 12.0], [device: iPhone10,3, os-version: 12.0], and [device: iPhone10,2, os-version: 12.0]
+App + On Demand Resources size: 14,9 MB compressed, 54 MB uncompressed
+App size: 14,9 MB compressed, 54 MB uncompressed
+On Demand Resources size: Zero KB compressed, Zero KB uncompressed
+
+
+Variant: Mobee-39F0E56A-F400-4781-BD08-0A3A1CD90677.ipa
+Supported variant descriptors: [device: iPod7,1, os-version: 12.2], [device: iPhone6,2, os-version: 12.2], [device: iPhone8,4, os-version: 12.2], [device: iPhone7,2, os-version: 12.0], [device: iPhone8,4, os-version: 12.0], [device: iPhone8,4, os-version: 11.0], [device: iPod7,1, os-version: 12.0], [device: iPod9,1, os-version: 12.2], [device: iPhone6,2, os-version: 11.0], [device: iPhone8,1, os-version: 11.0], [device: iPod7,1, os-version: 11.0], [device: iPhone8,1, os-version: 12.2], [device: iPhone8,1, os-version: 12.0], [device: iPhone6,1, os-version: 12.0], [device: iPhone6,1, os-version: 12.2], [device: iPhone6,1, os-version: 11.0], [device: iPhone7,2, os-version: 12.2], [device: iPhone7,2, os-version: 11.0], and [device: iPhone6,2, os-version: 12.0]
+App + On Demand Resources size: 14,9 MB compressed, 53,9 MB uncompressed
+App size: 14,9 MB compressed, 53,9 MB uncompressed
+On Demand Resources size: Zero KB compressed, Zero KB uncompressed
+
+
+Variant: Mobee-3B702A82-3B89-4A7B-B124-F137A1ADE1AB.ipa
+Supported variant descriptors: [device: iPad4,4, os-version: 12.2], [device: iPad5,2, os-version: 11.0], [device: iPad5,1, os-version: 12.2], [device: iPad4,3, os-version: 12.0], [device: iPad4,6, os-version: 12.0], [device: iPad7,6, os-version: 12.2], [device: iPad4,1, os-version: 11.0], [device: iPad6,12, os-version: 12.0], [device: iPad7,5, os-version: 11.0], [device: iPad6,8, os-version: 12.0], [device: iPad4,4, os-version: 11.0], [device: iPad4,3, os-version: 11.0], [device: iPad6,12, os-version: 11.0], [device: iPad4,4, os-version: 12.0], [device: iPad4,2, os-version: 12.0], [device: iPad4,5, os-version: 11.0], [device: iPad4,8, os-version: 12.0], [device: iPad4,8, os-version: 11.0], [device: iPad6,11, os-version: 12.2], [device: iPad4,8, os-version: 12.2], [device: iPad5,4, os-version: 12.2], [device: iPad5,2, os-version: 12.0], [device: iPad6,7, os-version: 12.0], [device: iPad4,3, os-version: 12.2], [device: iPad7,6, os-version: 11.0], [device: iPad5,3, os-version: 12.0], [device: iPad4,6, os-version: 12.2], [device: iPad4,9, os-version: 11.0], [device: iPad6,8, os-version: 12.2], [device: iPad6,8, os-version: 11.0], [device: iPad7,5, os-version: 12.0], [device: iPad4,9, os-version: 12.2], [device: iPad5,4, os-version: 11.0], [device: iPad6,11, os-version: 11.0], [device: iPad6,7, os-version: 12.2], [device: iPad5,3, os-version: 12.2], [device: iPad5,1, os-version: 12.0], [device: iPad4,1, os-version: 12.0], [device: iPad4,1, os-version: 12.2], [device: iPad5,2, os-version: 12.2], [device: iPad4,9, os-version: 12.0], [device: iPad4,7, os-version: 11.0], [device: iPad6,12, os-version: 12.2], [device: iPad4,2, os-version: 11.0], [device: iPad5,1, os-version: 11.0], [device: iPad6,11, os-version: 12.0], [device: iPad5,3, os-version: 11.0], [device: iPad5,4, os-version: 12.0], [device: iPad4,7, os-version: 12.0], [device: iPad6,7, os-version: 11.0], [device: iPad4,7, os-version: 12.2], [device: iPad4,5, os-version: 12.0], [device: iPad4,6, os-version: 11.0], [device: iPad4,2, os-version: 12.2], [device: iPad7,5, os-version: 12.2], [device: iPad7,6, os-version: 12.0], and [device: iPad4,5, os-version: 12.2]
+App + On Demand Resources size: 14,9 MB compressed, 54 MB uncompressed
+App size: 14,9 MB compressed, 54 MB uncompressed
+On Demand Resources size: Zero KB compressed, Zero KB uncompressed
+
+
+Variant: Mobee-78DBB945-D3A4-416A-B3FC-58A97DBD8E5F.ipa
+Supported variant descriptors: [device: iPhone9,3, os-version: 12.2], [device: iPhone10,4, os-version: 12.2], [device: iPhone9,3, os-version: 11.0], [device: iPhone10,1, os-version: 12.0], [device: iPhone10,4, os-version: 11.0], [device: iPhone9,3, os-version: 12.0], [device: iPhone9,1, os-version: 12.2], [device: iPhone9,1, os-version: 12.0], [device: iPhone9,1, os-version: 11.0], [device: iPhone10,1, os-version: 11.0], [device: iPhone10,4, os-version: 12.0], and [device: iPhone10,1, os-version: 12.2]
+App + On Demand Resources size: 14,9 MB compressed, 53,9 MB uncompressed
+App size: 14,9 MB compressed, 53,9 MB uncompressed
+On Demand Resources size: Zero KB compressed, Zero KB uncompressed
+
+
+Variant: Mobee-A23C7630-DE7B-4BB1-8BD1-F74E1BA5BCAD.ipa
+Supported variant descriptors: [device: iPhone8,2, os-version: 12.2], [device: iPhone8,2, os-version: 11.0], [device: iPhone8,2, os-version: 12.0], [device: iPhone7,1, os-version: 11.0], [device: iPhone7,1, os-version: 12.0], and [device: iPhone7,1, os-version: 12.2]
+App + On Demand Resources size: 14,9 MB compressed, 54 MB uncompressed
+App size: 14,9 MB compressed, 54 MB uncompressed
+On Demand Resources size: Zero KB compressed, Zero KB uncompressed
+
+
+Variant: Mobee-B33387AC-995E-4F4A-8284-F2D2B2DFED4F.ipa
+Supported variant descriptors: [device: iPad7,4, os-version: 14.0], [device: iPad11,4, os-version: 14.0], [device: iPad7,2, os-version: 14.0], [device: iPad8,5, os-version: 14.0], [device: iPad7,1, os-version: 15.0], [device: iPad8,7, os-version: 13.0], [device: iPad8,6, os-version: 13.0], [device: iPad11,4, os-version: 13.0], [device: iPad8,3, os-version: 15.0], [device: iPad8,9, os-version: 15.0], [device: MacFamily20,1, os-version: 15.0], [device: iPad8,2, os-version: 14.0], [device: iPad8,2, os-version: 15.0], [device: iPad8,7, os-version: 15.0], [device: iPad8,8, os-version: 13.0], [device: iPad13,2, os-version: 14.0], [device: iPad8,12, os-version: 14.0], [device: iPad7,4, os-version: 15.0], [device: iPad6,4, os-version: 14.0], [device: iPad11,2, os-version: 13.0], [device: iPad13,7, os-version: 15.0], [device: iPad7,2, os-version: 15.0], [device: iPad13,10, os-version: 14.0], [device: iPad11,3, os-version: 14.0], [device: iPad11,1, os-version: 15.0], [device: iPad8,11, os-version: 13.0], [device: iPad8,1, os-version: 14.0], [device: iPad8,4, os-version: 15.0], [device: iPad8,6, os-version: 14.0], [device: iPad13,7, os-version: 14.0], [device: iPad8,4, os-version: 13.0], [device: iPad8,2, os-version: 13.0], [device: iPad13,11, os-version: 14.0], [device: iPad6,3, os-version: 15.0], [device: iPad11,2, os-version: 15.0], [device: iPad7,3, os-version: 13.0], [device: iPad8,9, os-version: 13.0], [device: iPad8,1, os-version: 13.0], [device: iPad8,10, os-version: 13.0], [device: iPad7,1, os-version: 13.0], [device: iPad8,7, os-version: 14.0], [device: iPad14,2, os-version: 15.0], [device: iPad13,4, os-version: 15.0], [device: iPad11,2, os-version: 14.0], [device: iPad11,1, os-version: 13.0], [device: iPad13,6, os-version: 14.0], [device: iPad13,9, os-version: 14.0], [device: iPad13,8, os-version: 14.0], [device: iPad11,3, os-version: 13.0], [device: iPad8,12, os-version: 13.0], [device: iPad8,8, os-version: 14.0], [device: iPad8,10, os-version: 15.0], [device: iPad6,3, os-version: 13.0], [device: iPad13,6, os-version: 15.0], [device: iPad11,4, os-version: 15.0], [device: iPad13,9, os-version: 15.0], [device: iPad6,4, os-version: 13.0], [device: iPad8,11, os-version: 15.0], [device: iPad8,12, os-version: 15.0], [device: iPad8,6, os-version: 15.0], [device: iPad8,8, os-version: 15.0], [device: iPad7,3, os-version: 14.0], [device: iPad13,10, os-version: 15.0], [device: iPad8,4, os-version: 14.0], [device: iPad13,11, os-version: 15.0], [device: iPad14,1, os-version: 15.0], [device: iPad8,5, os-version: 15.0], [device: iPad7,4, os-version: 13.0], [device: iPad7,2, os-version: 13.0], [device: iPad8,3, os-version: 14.0], [device: iPad8,11, os-version: 14.0], [device: iPad11,1, os-version: 14.0], [device: iPad11,3, os-version: 15.0], [device: iPad13,1, os-version: 15.0], [device: iPad8,1, os-version: 15.0], [device: iPad6,4, os-version: 15.0], [device: iPad8,3, os-version: 13.0], [device: iPad13,5, os-version: 14.0], [device: iPad7,3, os-version: 15.0], [device: iPad13,5, os-version: 15.0], [device: iPad8,10, os-version: 14.0], [device: iPad13,1, os-version: 14.0], [device: iPad8,5, os-version: 13.0], [device: iPad8,9, os-version: 14.0], [device: iPad13,8, os-version: 15.0], [device: MacFamily20,1, os-version: 14.0], [device: iPad6,3, os-version: 14.0], [device: iPad13,2, os-version: 15.0], [device: iPad13,4, os-version: 14.0], and [device: iPad7,1, os-version: 14.0]
+App + On Demand Resources size: 14,9 MB compressed, 54 MB uncompressed
+App size: 14,9 MB compressed, 54 MB uncompressed
+On Demand Resources size: Zero KB compressed, Zero KB uncompressed
+
+
+Variant: Mobee-CB5E7691-5EFA-4441-B39C-05F4A6C24D9C.ipa
+Supported variant descriptors: [device: iPhone11,2, os-version: 15.0], [device: iPhone9,4, os-version: 13.0], [device: iPhone13,3, os-version: 14.0], [device: iPhone13,2, os-version: 15.0], [device: iPhone11,2, os-version: 13.0], [device: iPhone10,3, os-version: 13.0], [device: iPhone10,6, os-version: 15.0], [device: iPhone11,4, os-version: 15.0], [device: iPhone10,2, os-version: 15.0], [device: iPhone9,2, os-version: 15.0], [device: iPhone13,1, os-version: 15.0], [device: iPhone10,6, os-version: 13.0], [device: iPhone11,6, os-version: 14.0], [device: iPhone10,3, os-version: 14.0], [device: iPhone9,4, os-version: 14.0], [device: iPhone9,4, os-version: 15.0], [device: iPhone13,4, os-version: 14.0], [device: iPhone13,1, os-version: 14.0], [device: iPhone12,5, os-version: 14.0], [device: iPhone12,5, os-version: 13.0], [device: iPhone10,2, os-version: 14.0], [device: iPhone9,2, os-version: 14.0], [device: iPhone10,5, os-version: 15.0], [device: iPhone11,4, os-version: 13.0], [device: iPhone14,3, os-version: 15.0], [device: iPhone10,3, os-version: 15.0], [device: iPhone10,5, os-version: 13.0], [device: iPhone14,4, os-version: 15.0], [device: iPhone12,3, os-version: 13.0], [device: iPhone13,3, os-version: 15.0], [device: iPhone9,2, os-version: 13.0], [device: iPhone11,6, os-version: 15.0], [device: iPhone14,5, os-version: 15.0], [device: iPhone10,6, os-version: 14.0], [device: iPhone11,2, os-version: 14.0], [device: iPhone11,6, os-version: 13.0], [device: iPhone14,2, os-version: 15.0], [device: iPhone13,4, os-version: 15.0], [device: iPhone10,2, os-version: 13.0], [device: iPhone10,5, os-version: 14.0], [device: iPhone13,2, os-version: 14.0], [device: iPhone12,3, os-version: 14.0], [device: iPhone11,4, os-version: 14.0], [device: iPhone12,3, os-version: 15.0], and [device: iPhone12,5, os-version: 15.0]
+App + On Demand Resources size: 14,9 MB compressed, 54 MB uncompressed
+App size: 14,9 MB compressed, 54 MB uncompressed
+On Demand Resources size: Zero KB compressed, Zero KB uncompressed
+
+
+Variant: Mobee-F4A69C86-A7B8-45DB-9FD9-BD9C199F8A9F.ipa
+Supported variant descriptors: [device: iPhone8,2, os-version: 14.0], [device: iPhone8,2, os-version: 15.0], and [device: iPhone8,2, os-version: 13.0]
+App + On Demand Resources size: 14,9 MB compressed, 54 MB uncompressed
+App size: 14,9 MB compressed, 54 MB uncompressed
+On Demand Resources size: Zero KB compressed, Zero KB uncompressed
+
+
+Variant: Mobee-F69DD0ED-1ED6-4A51-ADF4-82BA01603C7B.ipa
+Supported variant descriptors: [device: iPhone11,8, os-version: 13.0], [device: iPhone12,1, os-version: 14.0], [device: iPhone11,8, os-version: 14.0], [device: iPhone12,1, os-version: 15.0], [device: iPhone12,1, os-version: 13.0], and [device: iPhone11,8, os-version: 15.0]
+App + On Demand Resources size: 14,9 MB compressed, 53,9 MB uncompressed
+App size: 14,9 MB compressed, 53,9 MB uncompressed
+On Demand Resources size: Zero KB compressed, Zero KB uncompressed
+
+
+Variant: Mobee.ipa
+Supported variant descriptors: Universal
+App + On Demand Resources size: 15 MB compressed, 54,1 MB uncompressed
+App size: 15 MB compressed, 54,1 MB uncompressed
+On Demand Resources size: Zero KB compressed, Zero KB uncompressed

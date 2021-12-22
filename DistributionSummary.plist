@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Mobee.ipa</key>
+	<array>
+		<dict>
+			<key>architectures</key>
+			<array>
+				<string>arm64</string>
+			</array>
+			<key>buildNumber</key>
+			<string>1.0.0</string>
+			<key>certificate</key>
+			<dict>
+				<key>SHA1</key>
+				<string>6FA24B10EF6BE8571C239BC281D1B3D6E2045D7D</string>
+				<key>dateExpires</key>
+				<string>08/12/2022</string>
+				<key>type</key>
+				<string>Cloud Managed Apple Distribution</string>
+			</dict>
+			<key>entitlements</key>
+			<dict>
+				<key>application-identifier</key>
+				<string>U3ZM7M4AG2.com.mobee-app</string>
+				<key>com.apple.developer.team-identifier</key>
+				<string>U3ZM7M4AG2</string>
+				<key>get-task-allow</key>
+				<false/>
+			</dict>
+			<key>name</key>
+			<string>Mobee.app</string>
+			<key>profile</key>
+			<dict>
+				<key>UUID</key>
+				<string>0f2d6a73-528f-454e-a2ff-c4a25ff659b0</string>
+				<key>dateExpires</key>
+				<string>08/12/2022</string>
+				<key>name</key>
+				<string>iOS Team Ad Hoc Provisioning Profile: com.mobee-app</string>
+			</dict>
+			<key>team</key>
+			<dict>
+				<key>id</key>
+				<string>U3ZM7M4AG2</string>
+				<key>name</key>
+				<string>Uprizon LLC</string>
+			</dict>
+			<key>versionNumber</key>
+			<string>1.0.0</string>
+		</dict>
+	</array>
+</dict>
+</plist>
