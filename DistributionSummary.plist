@@ -14,11 +14,11 @@
 			<key>certificate</key>
 			<dict>
 				<key>SHA1</key>
-				<string>6FA24B10EF6BE8571C239BC281D1B3D6E2045D7D</string>
+				<string>CCD738A7EF01BDB4A01F89F44307CDCF62DA4EEF</string>
 				<key>dateExpires</key>
-				<string>08/12/2022</string>
+				<string>11/01/2023</string>
 				<key>type</key>
-				<string>Cloud Managed Apple Distribution</string>
+				<string>Apple Distribution</string>
 			</dict>
 			<key>entitlements</key>
 			<dict>
@@ -34,9 +34,9 @@
 			<key>profile</key>
 			<dict>
 				<key>UUID</key>
-				<string>fb3d79fe-8bff-40a1-bee4-ced7a6126080</string>
+				<string>08214901-c456-4301-b762-297d658972f7</string>
 				<key>dateExpires</key>
-				<string>08/12/2022</string>
+				<string>11/01/2023</string>
 				<key>name</key>
 				<string>iOS Team Ad Hoc Provisioning Profile: com.mobee-app</string>
 			</dict>
